@@ -6,6 +6,11 @@
 * You should install git to clone the repo.
 * A Text edit like [Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
 
+## Installation
+
+- Clone the repo with `git clone https://github.com/manuhazen/tests-frontend.git`
+- Move the the root folder: `cd tests-frontend`
+
 ## Mastermind Game
 
 To run Mastermind game, follow the instructions.(You should locate at root folder)
