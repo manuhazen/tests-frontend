@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-* You should install node to run the programs in console.[I'm an inline-style link](https://nodejs.org/en/) (The current or LTS version should be fine)
+* You should install node to run the programs in console.[https://nodejs.org/en/](The current or LTS version should be fine)
 * You should install git to clone the repo.
 * A Text edit like [Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
 
